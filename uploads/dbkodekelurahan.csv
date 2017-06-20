@@ -1,0 +1,287 @@
+1,1,1,1001,Mlajah
+2,2,1,1002,Kemayoran
+3,3,1,1003,Pengeranan
+4,4,1,1004,Demangan
+5,5,1,1005,Kraton
+6,6,1,1006,Pejagan
+7,7,1,1007,Bancaran
+8,8,1,1008,Sembilangan
+9,9,1,1009,Ujung Piring
+10,10,1,1010,Kramat
+11,11,1,1011,Martajasah
+12,12,1,1012,Sabiyan
+13,13,1,1013,Gebang
+14,14,2,001,Socah
+15,15,2,002,Keleyan
+16,16,2,003,Bilaporah
+17,17,2,004,Parseh
+18,18,2,005,Jaddih
+19,19,2,006,Buluh
+20,20,2,007,Junganyar
+21,21,2,008,Dakiring
+22,22,2,009,Petaonan
+23,23,2,010,Pernajuh
+24,24,2,011,Sanggra Agung
+25,25,3,0001,Kelurahan Tunjung
+26,26,3,0002,Burneh
+27,27,3,0003,Langkap
+28,28,3,0004,Banangkah
+29,29,3,0005,Alas Kembang
+30,30,3,0006,Kapor
+31,31,3,0007,Arok
+32,32,3,0008,Sobih
+33,33,3,0009,Pangolangan
+34,34,3,0110,Binoh
+35,35,3,0111,Perreng
+36,36,3,0112,Jambuh
+37,37,4,2001,Kamal
+38,38,4,2002,Banyu Ajuh
+39,39,4,2003,Gili Barat
+40,40,4,2004,Gili Timur
+41,41,4,2005,Gili Anyar
+42,42,4,2006,Telang
+43,43,4,2007,Pendabah
+44,44,4,2008,Tanjungan
+45,45,4,2009,Kebun
+46,46,4,2010,Tanjung Jati
+47,47,5,0001,Arosbaya
+48,48,5,0002,Tengket
+49,49,5,0003,Lajing
+50,50,5,0004,Balung
+51,51,5,0005,Glagah
+52,52,5,0006,Pandan Lanjang
+53,53,5,0007,Bato Naong
+54,54,5,0008,Ombul
+55,55,5,0009,Karang Duwak
+56,56,5,0110,Berbeluk
+57,57,5,0111,Buduran
+58,58,5,0112,Tambegan
+59,59,5,0113,Cendagah
+60,60,5,0114,Mangkon
+61,61,5,0115,Karangpao
+62,62,5,0116,Makam Agung
+63,63,5,0117,Dlemer
+64,64,5,0118,Plakaran
+65,65,6,0001,Kombangan
+66,66,6,0002,Bayoneng Laok
+67,67,6,0003,Katol Barat
+68,68,6,0004,Dabung
+69,69,6,0005,Lerpak
+70,70,6,0006,Geger
+71,71,6,0007,Togubang
+72,72,6,0008,Batobella
+73,73,6,0009,Kampak
+74,74,6,0110,Campor
+75,75,6,0111,Kompol
+76,76,6,0112,Tegar Priyah
+77,77,6,0113,Bayoneng Dajah
+78,78,7,0001,Klampis Barat
+79,79,7,0002,Tenggun
+80,80,7,0003,Mrandung
+81,81,7,0004,Tobaddung
+82,82,7,0005,Tolbuk
+83,83,7,0006,Moarah
+84,84,7,0007,Raas
+85,85,7,0008,Polongan
+86,86,7,0009,Karangasem
+87,87,7,0110,Trogan
+88,88,7,0111,Bulung
+89,89,7,0112,Banteyan
+90,90,7,0113,Bragang
+91,91,7,0114,Lergunong
+92,92,7,0115,Penyaksagan
+93,93,7,0116,Manonggal
+94,94,7,0117,Bator
+95,95,7,0118,Klampis Timur
+96,96,7,0119,Bulukagung
+97,97,7,0120,Larangan Sorjan
+98,98,7,0121,Larangan Glintong
+99,99,7,0122,Kool
+100,100,8,0001,Sepulu
+101,101,8,0002,Maneron
+102,102,8,0003,Gengseyan
+103,103,8,0004,Klapayan
+104,104,8,0005,Bangsereh
+105,105,8,0006,Saplasah
+106,106,8,0007,Labuhan
+107,107,8,0008,Genelap
+108,108,8,0009,Prancak
+109,109,8,0010,Tanah Gurah Barat
+110,110,8,0011,Tanah Gurah Timur
+111,111,8,0012,Banyior
+112,112,8,0013,Lembung Paseser
+113,113,8,0014,Kelbung
+114,114,8,2015,Kalabetan
+115,115,9,0001,Paseseh
+116,116,9,0002,Bumi Anyar
+117,117,9,0003,Tambang Pocok
+118,118,9,0004,Larangan Timur
+119,119,9,0005,Bungkeng
+120,120,9,0006,Bandang Dajah
+121,121,9,0007,Tagungguh
+122,122,9,0008,Planggiran
+123,123,9,0009,Aeng Taber
+124,124,9,0010,Banyusangka
+125,125,9,0011,Tlangoh
+126,126,9,0012,Macajah
+127,127,9,0013,Tanjung Bumi
+128,128,9,0014,Tlaga Biru
+129,129,10,0001,Dupok
+130,130,10,0002,Batukoragan
+131,131,10,0003,Banda Soleh
+132,132,10,0004,Tramok
+133,133,10,0005,Katol Timur
+134,134,10,0006,Lembung Gunong
+135,135,10,0007,Amparan
+136,136,10,0008,Kokop
+137,137,10,0009,Tlokoh
+138,138,10,0010,Durjan
+139,139,10,0011,Manoan
+140,140,10,0012,Mandung
+141,141,10,0013,Bandang Laok
+142,142,11,0001,Pesanggrahan
+143,143,11,0002,Kwanyar Barat
+144,144,11,0003,Ketetang
+145,145,11,0004,Dlemer
+146,146,11,0005,Morombuh
+147,147,11,0006,Tebul
+148,148,11,0007,Karang Anyar
+149,149,11,0008,Janteh
+150,150,11,0009,Somor Koneng
+151,151,11,0010,Paoran
+152,152,11,0011,Karang Entang
+153,153,11,0012,Batah Barat
+154,154,11,0013,Batah Timur
+155,155,11,0014,Pandanan
+156,156,11,0015,Gunong Sereng
+157,157,11,0016,Duwek Buter
+158,158,12,0001,Kesek
+159,159,12,0002,Labang
+160,160,12,0003,Jukong
+161,161,12,0004,Pangpong
+162,162,12,0005,Sukolilo Barat
+163,163,12,0006,Sukolilo Timur
+164,164,12,0007,Beringen
+165,165,12,0008,Ba enggas
+166,166,12,0009,Bunajih
+167,167,12,0010,Sendang Laok
+168,168,12,0011,Sendang Dajah
+169,169,12,0012,Petapan
+170,170,12,0013,Morkepek
+171,171,13,0001,Tanah Merah Dajah
+172,172,13,0002,Tanah Merah Laok
+173,173,13,0003,Petrah
+174,174,13,0004,Jangkar
+175,175,13,0005,Pettong
+176,176,13,0006,Kendeben
+177,177,13,0007,Dumajah
+178,178,13,0008,Pacentan
+179,179,13,0009,Baipajung
+180,180,13,0110,Tlomor
+181,181,13,0111,Rongdurin
+182,182,13,0112,Landak
+183,183,13,0113,Basanah
+184,184,13,0114,Poter
+185,185,13,0115,Patemon
+186,186,13,0116,Dlembeh Dajah
+187,187,13,0117,Dlambah Laok
+188,188,13,0118,Mrecah
+189,189,13,0119,Buddan
+190,190,14,0001,Soket Laok
+191,191,14,0002,Soket Dajah
+192,192,14,0003,Pamorah
+193,193,14,0004,Banyubeseh
+194,194,14,0005,Pocong
+195,195,14,0006,Tragah
+196,196,14,0007,Karang Leman
+197,197,14,0008,Dukotambin
+198,198,14,0009,Keteleng
+199,199,14,0110,Alang Alang
+200,200,14,0111,Kemoning
+201,201,14,0112,Tambin
+202,202,14,0113,Bajeman
+203,203,14,0114,Jaddung
+204,204,14,0115,Pacangan
+205,205,14,0116,Bancang
+206,206,14,0117,Ja ah
+207,207,14,0118,Masaran
+208,208,15,0001,Blega
+209,209,15,0002,Rosep
+210,210,15,0003,Nyomanes
+211,211,15,0004,Alas Rajah
+212,212,15,0005,Blega Olah
+213,213,15,0006,Karang Nangkah
+214,214,15,0007,Karang Panasan
+215,215,15,0008,Karang Gayam
+216,216,15,0009,Lomaer
+217,217,15,0110,Bates
+218,218,15,0111,Lombang Laok
+219,219,15,0112,Lombang Dajah
+220,220,15,0113,Karpote
+221,221,15,0114,Kajjan
+222,222,15,0115,Panjalinan
+223,223,15,0116,Geddungan
+224,224,15,0117,Kampao
+225,225,15,0118,Ko olan
+226,226,15,0119,Gigir
+227,227,16,0001,Patereman
+228,228,16,0002,Paeng
+229,229,16,0003,Kolla
+230,230,16,0004,Neroh
+231,231,16,0005,Langpanggang
+232,232,16,0006,Patenteng
+233,233,16,0007,Srabi Barat
+234,234,16,0008,Srabi Timur
+235,235,16,0009,Pangpajung
+236,236,16,0110,Karanganyar
+237,237,16,0111,Alas Kokon
+238,238,16,0112,Pakong
+239,239,16,0113,Gligis
+240,240,16,0114,Brakah Dajah
+241,241,16,0115,Modung
+242,242,16,0116,Suwaan
+243,243,16,0117,Manggan
+244,244,17,0001,Bandung
+245,245,17,0002,Konang
+246,246,17,0003,Genteng
+247,247,17,0004,Pakes
+248,248,17,0005,Cangkareman
+249,249,17,0006,Sen Asen
+250,250,17,0007,Sambiyan
+251,251,17,0008,Campor
+252,252,17,0009,Galis Dajah
+253,253,17,0110,Kanagareh
+254,254,17,0111,Durin Barat
+255,255,17,0112,Durin Timur
+256,256,17,0113,Batok Kaban
+257,257,18,0001,Tellok
+258,258,18,0002,Daleman
+259,259,18,0003,Blateran
+260,260,18,0004,Paterongan
+261,261,18,0005,Kajuanak
+262,262,18,0006,Longkek
+263,263,18,0007,Galis
+264,264,18,0008,Pekadan
+265,265,18,0009,Bangpendah
+266,266,18,0110,Pakaan Dajah
+267,267,18,0111,Pakaan Laok
+268,268,18,0112,Kranggan Timur
+269,269,18,0113,Separah
+270,270,18,0114,Banjar
+271,271,18,0115,Tlagah
+272,272,18,0116,Lantek Barat
+273,273,18,0117,Lantek Timor
+274,274,18,0118,Kelbung
+275,275,18,0119,Banyubunih
+276,276,18,0120,Sadah
+277,277,18,0121,Sorpa
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
